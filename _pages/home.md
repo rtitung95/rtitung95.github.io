@@ -1,6 +1,6 @@
 ---
-title: "Home"
 permalink: /home/
+title: "Home"
 layout: single
 author_profile: true
 ---
