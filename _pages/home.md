@@ -1,5 +1,5 @@
 ### Background
-:   I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
+:    I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
 
 Previously used to work with a blockchain startup in their early phase where we built data pipelines, applied natural language processing techniques, identified trading patterns and trained machine learning models to trade on cryptocurrencies such as Bitcoin, Ethereum etc.
 
