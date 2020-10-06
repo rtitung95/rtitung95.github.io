@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : #"Dinesh Daultani Academic Profile"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Dinesh Daultani personal website" # site tagline that appears below site title in masthead
 name                     : "Dinesh Daultani"
 description              : "Dinesh Daultani personal website."
 url                      : https://dineshdaultani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
