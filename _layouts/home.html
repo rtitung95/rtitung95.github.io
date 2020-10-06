@@ -3,8 +3,9 @@ layout: archive
 ---
 
 {{ content }}
+{% include_relative _pages/home.md %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts - .." }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -18,7 +19,5 @@ layout: archive
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-
-{% include_relative _pages/home.md %}
 
 {% include paginator.html %}
