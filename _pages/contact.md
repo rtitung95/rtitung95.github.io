@@ -1,7 +1,7 @@
 ---
-layout: single
 permalink: /contact/
 title: Contact
+layout: single
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 title: "Home"
-layout: single
 permalink: /
-author_profile: true
+layout: single
 ---
 
 A variety of common markup showing how the theme styles them.
