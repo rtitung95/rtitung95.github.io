@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Dinesh Daultani"
 description              : "Dinesh Daultani personal website."
 url                      : https://dineshdaultani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /home # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Dinesh Daultani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dinesh_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems."
   location         : "Tokyo, Japan"
   email            : dinesh (dot) daultani (at) gmail.com
