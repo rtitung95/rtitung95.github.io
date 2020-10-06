@@ -1,9 +1,3 @@
----
-permalink: /home/
-title: Home
-layout: default
----
-
 A variety of common markup showing how the theme styles them.
 
 # Header one
