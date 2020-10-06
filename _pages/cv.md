@@ -1,6 +1,7 @@
 ---
 permalink: /cv/
 title: Curriculum Vitae
+author_profile: true
 ---
 
 Previously used to work with a blockchain startup in their early phase where we built data pipelines, applied natural language processing techniques, identified trading patterns and trained machine learning models to trade on cryptocurrencies such as Bitcoin, Ethereum etc.
