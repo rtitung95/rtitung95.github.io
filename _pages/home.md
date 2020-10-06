@@ -23,7 +23,7 @@ Lead a team of engineers for the backend development and design different system
 Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and indexes by developing end-to-end machine learning models (LSTM & Traditional ML) based on historical market macroeconomics data for assets under management (AUM) of tens of millions of dollars
 
 ### Patents
-### Ensembles optimization using genetic algorithms
+#### Ensembles optimization using genetic algorithms
 Invented a new approach to find the best-optimized combination of weak supervised models by using evolutionary search and tournament selection approach based on weighted metrics, PCT JP2020/001767, filed on 2020/01/20
 
 #### Anomaly detection in cybersecurity
@@ -32,6 +32,6 @@ Invented a new approach for anomaly detection based on the change in user probab
 ### Teaching Assistant
 Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
 Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language
-[IT168](https://coursefinder.illinoisstate.edu/it/168/) [IT150](https://coursefinder.illinoisstate.edu/it/150/)
+Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) [IT150](https://coursefinder.illinoisstate.edu/it/150/)
 
 
