@@ -31,7 +31,7 @@ Also, I graduated with a master of science in Information Systems from [Illinois
 
 ## Teaching Assistant
 - Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
-- Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language
+- Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language.
 Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](https://coursefinder.illinoisstate.edu/it/150/)
 
 
