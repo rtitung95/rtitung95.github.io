@@ -3,7 +3,11 @@ layout: archive
 ---
 
 {{ content }}
-{% include_relative _pages/home.md %}
+
+<div>
+{% capture p1 %}{% include_relative _pages/home.md %}{% endcapture %}
+{{ p1 | markdownify }}
+</div>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
