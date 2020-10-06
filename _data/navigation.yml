@@ -3,8 +3,8 @@ main:
   # - title: "Quick-Start Guide"
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
-    url: https://dineshdaultani.github.io/home/
+    url: https://dineshdaultani.github.io/
   - title: "contact"
-    url: /contact/
+    url: /home/
   - title: "Curriculum Vitae"
     url: https://dineshdaultani.github.io/cv/
