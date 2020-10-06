@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: default
 permalink: /contact/
 title: Contact
 toc: true
