@@ -2,6 +2,7 @@
 title: "Home"
 permalink: /
 layout: single
+author_profile: true
 ---
 
 A variety of common markup showing how the theme styles them.
