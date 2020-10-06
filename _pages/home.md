@@ -1,5 +1,5 @@
 ## Background
-I am currently working at [Rakuten](https://en.wikipedia.org/wiki/Rakuten) ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
+I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
 
 Previously used to work with a blockchain startup in their early phase where we built data pipelines, applied natural language processing techniques, identified trading patterns and trained machine learning models to trade on cryptocurrencies such as Bitcoin, Ethereum etc.
 
@@ -39,5 +39,5 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 - RGPV ([CDGI](https://cdgi.edu.in/cdgi.php)), Bachelor of Engineering in Computer Science
 
 ## Invited Talks
-- Invited talk in Python Conference ([PyCon](https://pycon-archive.python.org/2017/) 2017) on master’s project at [Intel-sponsored booth](https://www.facebook.com/IntelDeveloperZone/videos/10154597090152338)
+- Invited talk in Python Conference ([PyCon 2017](https://pycon-archive.python.org/2017/)) on master’s project at [Intel-sponsored booth](https://www.facebook.com/IntelDeveloperZone/videos/10154597090152338)
 - Invited panellist in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
