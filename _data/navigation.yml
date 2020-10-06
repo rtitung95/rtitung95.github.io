@@ -5,6 +5,6 @@ main:
   - title: "Home"
     url: https://dineshdaultani.github.io/
   - title: "Posts"
-    url: /posts/
+    url: /posts.html
   - title: "Curriculum Vitae"
     url: /cv/
