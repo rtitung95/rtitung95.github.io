@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: tag
+layout: single
 permalink: /
 author_profile: true
 ---
