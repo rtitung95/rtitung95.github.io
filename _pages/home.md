@@ -2,6 +2,7 @@
 title: "Home"
 layout: archive
 permalink: /home/
+author_profile: true
 ---
 
 A variety of common markup showing how the theme styles them.
