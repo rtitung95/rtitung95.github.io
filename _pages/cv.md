@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /home/
+permalink: /cv/
 title: Curriculum Vitae
 tags: [cv]
 modified: 10-05-2020
