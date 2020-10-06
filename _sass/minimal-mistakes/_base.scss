@@ -130,6 +130,7 @@ a {
 
   &:focus {
     @extend %tab-focus;
+    text-decoration:none;
   }
 
   &:visited {
@@ -137,6 +138,7 @@ a {
   }
 
   &:hover {
+    text-decoration:none;
     color: orange;
     outline: 0;
   }
