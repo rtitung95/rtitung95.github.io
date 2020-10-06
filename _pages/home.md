@@ -1,7 +1,7 @@
 ---
 title: "Home"
-layout: archive
-permalink: /home/
+layout: tag
+permalink: /
 author_profile: true
 ---
 
