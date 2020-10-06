@@ -29,4 +29,9 @@ Invented a new approach to find the best-optimized combination of weak supervise
 #### Anomaly detection in cybersecurity
 Invented a new approach for anomaly detection based on the change in user probabilities using multi-modal neural networks (CNN & LSTM), PCT JP2020/037004, filed on 2020/09/29
 
+### Teaching Assistant
+Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
+Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language
+[IT168](https://coursefinder.illinoisstate.edu/it/168/) [IT150](https://coursefinder.illinoisstate.edu/it/150/)
+
 
