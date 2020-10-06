@@ -1,9 +1,9 @@
 ## Background
 I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
-
+<br />
 ## Research Interests
 My research interests include computer vision, machine learning and reinforcement learning.
-
+<br />
 ## Research Projects at Rakuten
 #### Contextual Multi-Armed Bandits:
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
