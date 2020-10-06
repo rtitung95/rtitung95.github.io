@@ -1,4 +1,4 @@
-### Background
+## Background
 I am currently working at [Rakuten](https://en.wikipedia.org/wiki/Rakuten) ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems.
 
 Previously used to work with a blockchain startup in their early phase where we built data pipelines, applied natural language processing techniques, identified trading patterns and trained machine learning models to trade on cryptocurrencies such as Bitcoin, Ethereum etc.
@@ -7,7 +7,7 @@ Additionally, during my internship at [RR Donnelley](https://www.rrd.com/), I wo
 
 Also, I graduated with a master of science in Information Systems from [Illinois State University](https://illinoisstate.edu/) specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
 
-### Research Projects
+## Research Projects
 #### Contextual Multi-Armed Bandits:
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
 - Write production code to be used in real-time low latency application and performed thorough testing
@@ -22,14 +22,14 @@ Also, I graduated with a master of science in Information Systems from [Illinois
 #### Market Trading:
 - Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and indexes by developing end-to-end machine learning models (LSTM & Traditional ML) based on historical market macroeconomics data for assets under management (AUM) of tens of millions of dollars
 
-### Patents
+## Patents
 #### Ensembles optimization using genetic algorithms
 - Invented a new approach to find the best-optimized combination of weak supervised models by using evolutionary search and tournament selection approach based on weighted metrics, PCT JP2020/001767, filed on 2020/01/20
 
 #### Anomaly detection in cybersecurity
 - Invented a new approach for anomaly detection based on the change in user probabilities using multi-modal neural networks (CNN & LSTM), PCT JP2020/037004, filed on 2020/09/29
 
-### Teaching Assistant
+## Teaching Assistant
 - Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
 - Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language
 Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](https://coursefinder.illinoisstate.edu/it/150/)
