@@ -9,7 +9,7 @@ Also, I graduated with a master of science in Information Systems from Illinois 
 
 ### Research Projects
 #### Contextual Multi-Armed Bandits:
-###### Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
+- Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
 Write production code to be used in real-time low latency application and performed thorough testing
 
 #### Anomaly Detection in Security:
