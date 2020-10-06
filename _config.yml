@@ -20,7 +20,7 @@ title                    : "Dinesh Daultani Academic Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dinesh Daultani"
-description              : "I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems."
+description              : "Dinesh Daultani personal website."
 url                      : https://dineshdaultani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Dinesh Daultani"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems."
   location         : "Somewhere"
   email            :
   links:
