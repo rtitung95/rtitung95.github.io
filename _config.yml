@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Dinesh Daultani"
-  avatar           : "/assets/images/dinesh_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dinesh_avatar.jpg"
   bio              : "I am currently working at Rakuten (Rakuten Institute of Technology - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems."
   location         : "Tokyo, Japan"
   email            : dinesh (dot) daultani (at) gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "mailto:dinesh.daultani@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dineshdaultani.github.io"
