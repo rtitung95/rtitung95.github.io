@@ -5,7 +5,7 @@ Previously used to work with a blockchain startup in their early phase where we 
 
 Additionally, during my internship at [RR Donnelley](https://www.rrd.com/), I worked with the direct mail marketing research team to increase the profit by targeting customers for diverse domain clients (such as Healthcare, Insurance, Finance, Retail Stores etc.) through applying machine learning models, statistical modeling and data visualization on real-world problems.
 
-Also, I graduated with a master of science in Information Systems from [Illinois State University](https://illinoisstate.edu/) specialized in Machine Learning, Data Science and Web Development.
+Also, I graduated with a master of science in Information Systems from [Illinois State University](https://illinoisstate.edu/) specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
 
 ### Research Projects
 #### Contextual Multi-Armed Bandits:
@@ -32,6 +32,6 @@ Invented a new approach for anomaly detection based on the change in user probab
 ### Teaching Assistant
 Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
 Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language
-Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) [IT150](https://coursefinder.illinoisstate.edu/it/150/)
+Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](https://coursefinder.illinoisstate.edu/it/150/)
 
 
