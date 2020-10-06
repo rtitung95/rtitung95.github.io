@@ -4,7 +4,7 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: https://dineshdaultani.github.io/
-  - title: "Posts"
-    url: /posts/
+  - title: "contact"
+    url: /contact/
   - title: "Curriculum Vitae"
     url: /cv/
