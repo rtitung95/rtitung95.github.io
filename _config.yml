@@ -118,6 +118,18 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dineshdaultani/"
 
+# Site links
+links:
+  - title: Posts
+    url: /posts/
+#   - title: Curriculum
+#     url: /cv/
+#   - title: Tools
+#     url: /tools/
+#   - title: Blog posts
+#     url: /blog/
+
+
 # Site Footer
 footer:
   links:
