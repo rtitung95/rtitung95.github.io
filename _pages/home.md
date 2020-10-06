@@ -7,7 +7,7 @@ Additionally, during my internship at [RR Donnelley](https://www.rrd.com/), I wo
 
 Also, I graduated with a master of science in Information Systems from [Illinois State University](https://illinoisstate.edu/) specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
 
-## Research Projects
+## Research Projects at Rakuten
 #### Contextual Multi-Armed Bandits:
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
 - Write production code to be used in real-time low latency application and performed thorough testing
@@ -40,4 +40,4 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 
 ## Invited Talks
 - Invited talk in Python Conference ([PyCon](https://pycon-archive.python.org/2017/) 2017) on master’s project at [Intel-sponsored booth](https://software.intel.com/content/www/us/en/develop/blogs/stock-predictions-through-news-sentiment-analysis.html)
-- Invited speaker in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
+- Invited panellist in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
