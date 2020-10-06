@@ -38,4 +38,5 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 - [Illinois State University](https://illinoisstate.edu/), Master of Science in Information Systems
 - RGPV ([CDGI](https://cdgi.edu.in/cdgi.php)), Bachelor of Engineering in Computer Science
 
-
+## Invited Talks
+Invited talk in Python Conference ([PyCon](https://pycon-archive.python.org/2017/) 2017) on master’s project at [Intel-sponsored booth](https://software.intel.com/content/www/us/en/develop/blogs/stock-predictions-through-news-sentiment-analysis.html)
