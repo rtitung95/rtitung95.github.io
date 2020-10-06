@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /home/
 title: Curriculum Vitae
 tags: [cv]
-modified: 8-7-2014
+modified: 10-05-2020
 comments: false
 ---
