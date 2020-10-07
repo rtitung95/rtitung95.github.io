@@ -53,8 +53,8 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 - **AI Trainer:** Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 100+ employees dispersed around different Asia-Pacific locations 
 - **RL Study Group:** Founder and organizer of Reinforcement Learning study group and paper reading sessions for Rakuten’s machine learning community employees
 - Intel’s Student Ambassador of Artificial Intelligence at Illinois State University
-- President of Indian Student Association RSO at Illinois State University
 - President and Founder of Machine Learning student interest group under ACM/AITP Society
+- President of Indian Student Association RSO at Illinois State University
 - Member of Graduate Student Advisory Council (GSAC) at Illinois State University
 <br /><br />
 

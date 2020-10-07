@@ -193,6 +193,10 @@ hr {
 
 /* lists */
 
+p + ul {
+    margin-top: -1em;
+}
+
 ul li,
 ol li {
   margin-top: 0em;
