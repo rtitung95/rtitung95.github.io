@@ -193,10 +193,6 @@ hr {
 
 /* lists */
 
-p + ul {
-    margin-top: -1em;
-}
-
 ul li,
 ol li {
   margin-top: 0em;
@@ -207,6 +203,21 @@ li ul,
 li ol {
   margin-top: 0em;
   margin-bottom: 0em;
+}
+
+/* Fix for removing space before the lists */
+
+p + ul {
+    margin-top: -1em;
+}
+
+h1 + ul,
+h2 + ul,
+h3 + ul,
+h4 + ul,
+h5 + ul,
+h6 + ul{
+  margin-top: -1em;
 }
 
 /*
