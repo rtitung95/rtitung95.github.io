@@ -32,12 +32,12 @@ My research interests include computer vision, machine learning and reinforcemen
 - Invented a new approach for anomaly detection based on the change in user probabilities using multi-modal neural networks (CNN & LSTM)
 <br /><br />
 
-## Research Assistant
+## Research Assistant at ISU
 - Helped the professor [Dr. Xing Fang](https://scholar.google.com/citations?user=TdhUhMsAAAAJ&hl=en) in reproducing state-of-the-art research papers in computer vision on MNIST & CIFAR-10 datasets, utilizing Theano & Caffe machine learning libraries on Nvidia Titan X GPUs 
 - Trained models to optimize the error rate by combining new image transformation ideas
 <br /><br />
 
-## Teaching Assistant
+## Teaching Assistant at ISU
 - Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
 - Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language.  
 Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](https://coursefinder.illinoisstate.edu/it/150/)
