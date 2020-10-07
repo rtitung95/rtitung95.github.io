@@ -1,5 +1,5 @@
 ## Background
-I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence domain lab in RIT. 
+I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence lab at Rakuten Istitute of Technology (RIT). 
 <br /><br />
 
 ## Research Interests
