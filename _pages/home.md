@@ -1,5 +1,5 @@
 ## Background
-I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the guidance of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence domain in RIT. 
+I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence domain lab in RIT. 
 <br /><br />
 
 ## Research Interests
@@ -24,7 +24,7 @@ My research interests include computer vision, machine learning and reinforcemen
 
 ## Patents
 **Ensembles optimization using genetic algorithms**
-- **Dinesh Daultani**, Bruno Charron. INFORMATION PROCESSING APPARATUS, METHOD FOR INFORMATION PROCESSING AND PROGRAM THEREOF. PCT JP2020/001767, filed on 2020/01/20
+- **Dinesh Daultani**, Bruno Charron. Information processing apparatus, method for information processing and program thereof. PCT JP2020/001767, filed on 2020/01/20
 - Invented a new approach to find the best-optimized combination of weak supervised models by using evolutionary search and tournament selection approach based on weighted metrics
 
 **Anomaly detection in cybersecurity**
