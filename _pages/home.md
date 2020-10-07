@@ -1,5 +1,5 @@
 ## Background
-I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence lab at Rakuten Istitute of Technology (RIT). 
+I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence lab at Rakuten Institute of Technology (RIT). 
 <br /><br />
 
 ## Research Interests
@@ -60,7 +60,7 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 
 ## Invited Talks
 - Invited talk in Python Conference ([PyCon 2017](https://pycon-archive.python.org/2017/)) on master’s project at [Intel-sponsored booth](https://www.facebook.com/IntelDeveloperZone/videos/10154597090152338)
-- Invited panellist in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
+- Invited panelists in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
 <br /><br />
 
 ## Achievements / Awards
