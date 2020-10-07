@@ -44,6 +44,20 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 - RGPV ([CDGI](https://cdgi.edu.in/cdgi.php)), Bachelor of Engineering in Computer Science
 <br /><br />
 
+## Co-Curricular
+- **AI Trainer:** Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 100+ employees dispersed around different Asia-Pacific locations 
+- **RL Study Group:** Founder and organizer of Reinforcement Learning study group and paper reading sessions for Rakuten’s machine learning community employees
+- Intel’s Student Ambassador of Artificial Intelligence at Illinois State University
+- President of Indian Student Association RSO at Illinois State University
+- President and Founder of Machine Learning student interest group under ACM/AITP Society
+- Member of Graduate Student Advisory Council (GSAC) at Illinois State University
+<br /><br />
+
 ## Invited Talks
 - Invited talk in Python Conference ([PyCon 2017](https://pycon-archive.python.org/2017/)) on master’s project at [Intel-sponsored booth](https://www.facebook.com/IntelDeveloperZone/videos/10154597090152338)
 - Invited panellist in [Internationalization Student Panel](https://events.illinoisstate.edu/event/internationalization-of-isu-students-forum/) at Illinois State University
+<br /><br />
+
+## Achievements / Awards
+- **Certificate of Appreciation** for my active participation in [Intel AI Academy](https://software.intel.com/content/www/us/en/develop/topics/ai/training.html) and presenting my research work at PyCon (Python Conference).
+- **Certificate of Honor** for designing a website for the annual technological festival held at C.D.G.I. (undergrad)
