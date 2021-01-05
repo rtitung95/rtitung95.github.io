@@ -10,6 +10,7 @@ My research interests include computer vision, deep learning, lifelong learning,
 
 **Continuous Taxonomy Learning**
 - Develop a lifelong continual learning system for change in the hierarchy of images over time by utilizing recurrent neural networks, GCN, and lifelong learning methods based on hierarchical classification loss functions while baselining the results on Open Images v6 dataset
+- Targetting ICCV conference 2021 as the first author with [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja) and [Yeongnam Chae](https://scholar.google.co.kr/citations?user=gqD-4mkAAAAJ&hl=en) 
 
 **Contextual Multi-Armed Bandits**
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
@@ -54,7 +55,7 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 <br /><br />
 
 ## Co-Curricular
-- **AI Trainer:** Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 100+ employees dispersed around different Asia-Pacific locations 
+- **AI Trainer:** Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 150+ employees dispersed around different Asia-Pacific locations 
 - **RL Study Group:** Founder and organizer of Reinforcement Learning study group and paper reading sessions for Rakuten’s machine learning community employees
 - [Intel’s Student Ambassador](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html) of Artificial Intelligence at Illinois State University in 2016 - 2017
 - President and Founder of Machine Learning student interest group under ACM/AITP Society at Illinois State University in 2016 - 2017
