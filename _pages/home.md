@@ -10,7 +10,7 @@ My research interests include computer vision, deep learning, lifelong learning,
 
 **Continuous Taxonomy Learning**
 - Develop a lifelong continual learning system for change in the hierarchy of images over time by utilizing recurrent neural networks, GCN, and lifelong learning methods based on hierarchical classification loss functions while baselining the results on Open Images v6 dataset
-- Targetting ICCV conference 2021 as the first author with [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja) and [Yeongnam Chae](https://scholar.google.co.kr/citations?user=gqD-4mkAAAAJ&hl=en) 
+- Targetting ICCV conference 2021 as the first author with [Bjorn Stenger](https://scholar.google.com/citations?user=plhjgHUAAAAJ&hl=en), [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja) and [Yeongnam Chae](https://scholar.google.co.kr/citations?user=gqD-4mkAAAAJ&hl=en) 
 
 **Contextual Multi-Armed Bandits**
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
