@@ -29,7 +29,7 @@ My research interests include computer vision, deep learning, lifelong learning,
 
 ## [Patents](https://patents.google.com/?inventor=%E3%83%87%E3%82%A3%E3%83%8D%E3%82%B7%E3%83%A5+%E3%83%89%E3%83%AB%E3%82%BF%E3%83%8B)
 **Ensembles optimization using genetic algorithms**
-- **Dinesh Daultani**, Bruno Charron. Information processing apparatus, method for information processing and program thereof. PCT JP2020/001767, filed on 2020/01/20, granted on 2020/11/27 in JP ([6801149](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6801149/0722BAE649DF01A17CD4A4764B43B9924EA2BF981A33FE51599A3800EF4FF6A8/15/ja))
+- **Dinesh Daultani**, Bruno Charron. Information processing apparatus, method for information processing and program thereof. PCT JP2020/001767, filed on 2020/01/20, granted on 2020/11/27 in JP ([6801149](https://patents.google.com/patent/JP6801149B1/))
 - Invented a new approach to find the best-optimized combination of weak supervised models by using evolutionary search and tournament selection approach based on weighted metrics
 
 **Anomaly detection in cybersecurity**
