@@ -8,6 +8,14 @@ Additionally, I am currently working at Rakuten ([Rakuten Institute of Technolog
 My research interests include computer vision, lifelong learning, deep learning, and reinforcement learning.
 <br /><br />
 
+## Education
+- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
+	- Research direction related to Computer Vision and Efficient Neural Network Architectures
+- Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
+	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
+- Bachelor of Engineering in Computer Science from RGPV ([CDGI](https://cdgi.edu.in/cdgi.php))
+<br /><br />
+
 ## Research Projects at Rakuten
 
 **Continuous Taxonomy Learning**
@@ -47,14 +55,6 @@ My research interests include computer vision, lifelong learning, deep learning,
 - Taught undergrad students Java programming language and basics of computers in the introductory programming course labs
 - Debugged the students' programming code and helped them to identify & rectify their errors by explaining logical constructs of object-oriented programming language.  
 Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](https://coursefinder.illinoisstate.edu/it/150/)
-<br /><br />
-
-## Education
-- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
-	- Research direction related to Computer Vision and Efficient Neural Network Architectures
-- Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
-	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
-- Bachelor of Engineering in Computer Science from RGPV ([CDGI](https://cdgi.edu.in/cdgi.php))
 <br /><br />
 
 ## Co-Curricular
