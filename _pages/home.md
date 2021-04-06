@@ -50,7 +50,7 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 <br /><br />
 
 ## Education
-- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/)
+- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
 	- Research direction related to Computer Vision and Efficient Neural Network Architectures
 - Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
 	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
