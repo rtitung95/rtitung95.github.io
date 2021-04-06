@@ -1,16 +1,17 @@
 ## Background
-I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Intelligence lab at Rakuten Institute of Technology (RIT). During my master's, I worked under the supervision of [Prof. James Wolf](https://www.semanticscholar.org/author/James-R.-Wolf/2543949) for my master's project. 
+I am currently pursuing Ph.D. from the Tokyo Institute of Technology (Tokodai) in Dept. of Systems and Control Engineering at [Okutomi Tanaka Lab](http://www.ok.sc.e.titech.ac.jp/index.shtml). My main supervisor is professor [Masayuki Tanaka](http://www.ok.sc.e.titech.ac.jp/~mtanaka/) and I am working closely with the professor [Masatoshi Okutomi](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html). 
+
+Additionally, I am currently working at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist where I use deep learning, machine learning, and reinforcement learning to solve computer vision, finance, cybersecurity and e-commerce related research problems. I work under the supervision of [Bjorn Stenger](https://scholar.google.com/citations?user=plhjgHUAAAAJ&hl=en), [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja). Previously I used to work under the supervision of [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en) in the Customer group at Rakuten Institute of Technology (RIT). During my master's, I worked under the supervision of [Prof. James Wolf](https://www.semanticscholar.org/author/James-R.-Wolf/2543949) for my master's project. 
 <br /><br />
 
 ## Research Interests
-My research interests include computer vision, deep learning, lifelong learning, and reinforcement learning.
+My research interests include computer vision, lifelong learning, deep learning, and reinforcement learning.
 <br /><br />
 
 ## Research Projects at Rakuten
 
 **Continuous Taxonomy Learning**
 - Develop a lifelong continual learning system for change in the hierarchy of images over time by utilizing recurrent neural networks, GCN, and lifelong learning methods based on hierarchical classification loss functions while baselining the results on Open Images v6 dataset
-- Targetting ICCV conference 2021 as the first author with [Bjorn Stenger](https://scholar.google.com/citations?user=plhjgHUAAAAJ&hl=en), [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja) and [Yeongnam Chae](https://scholar.google.co.kr/citations?user=gqD-4mkAAAAJ&hl=en) 
 
 **Contextual Multi-Armed Bandits**
 - Develop a contextual bandit model to optimize Ad banners on Rakuten e-commerce website for tens of millions of users based on users’ historical purchase data and historical interactions with banners
