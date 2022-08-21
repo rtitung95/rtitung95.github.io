@@ -5,4 +5,4 @@ author_profile: true
 layout: single
 ---
 
-[**Current CV here**](https://dineshdaultani.github.io/assets/misc/Dinesh_Daultani_Resume.pdf)
+[**Current CV here**](https://dineshdaultani.github.io/assets/misc/Dinesh_Daultani_Resume.pdf) (last updated in Aug 2022)
