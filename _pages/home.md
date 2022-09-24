@@ -18,11 +18,11 @@ My research interests include Multimodal Machine Learning, Interactive Machine L
 # Education
 ---
 ### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - 2026)</span>
-<p style="text-align:left;"><em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span></p>
+<em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 <!-- --- -->
 
-### <p style="text-align:left;">**Bachelor in Computer Engineering**<span style="float:right;">(2013 - 2017)</span></p>
+### **Bachelor in Computer Engineering**<span style="float:right;">(2013 - 2017)</span>
 <p style="text-align:left;"><em>Pulchowk Campus, Institute of Engineering</em><span style="float:right;"><em>Lalitpur, Nepal</em></span></p>
 <br /><br />
 
