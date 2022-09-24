@@ -1,14 +1,14 @@
 # Background
+---
 I am a second- year Computing and Information Sciences student at Rochester Institute of Technology, working under Prof. [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) at [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My work focuses on Interactive Machine Learning for Multimodal Affective Computing.
 
-
-<br /><br />
-
 # Research Interests
+---
 My research interests include Multimodal Machine Learning, Interactive Machine Learning, Affective computing, Natural Language processing, and Reinforcement Learning.
 <br /><br />
 
 # News
+---
 - (08/2022): Accepted to [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/calls/call-for-doctoral-consortium/)
 - (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://sites.google.com/view/hciandnlp/home)
 - (05/2022): Passed Research Potential Assessment (RPA)
@@ -16,7 +16,8 @@ My research interests include Multimodal Machine Learning, Interactive Machine L
 
 
 # Education
-### <p style="text-align:left;">**Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - 2026)</span></p>
+---
+### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - 2026)</span>
 <p style="text-align:left;"><em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span></p>
 
 <!-- --- -->
@@ -26,7 +27,7 @@ My research interests include Multimodal Machine Learning, Interactive Machine L
 <br /><br />
 
 # Work Experience
-
+---
 ### <p style="text-align:left;">**Teaching Assistant**<span style="float:right;">(August 2022 - Present)</span></p>
 <p style="text-align:left;"><em>ENGL-581/681, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span></p>
 
@@ -67,6 +68,7 @@ Affective Computing
 - Worked on Desktop automation project
 
 # Publications
+---
 - **Rajesh Titung** and Cecilia O. Alm. 2022. Teaching interactively to learn emotions in natural language.
 In Proceedings of the Second Workshop on Bridging Human–Computer Interaction and Natural Language
 Processing, pages 40–46, Seattle, Washington. Association for Computational Linguistics. [\[pdf\]](https://aclanthology.org/2022.hcinlp-1.6/)
@@ -76,10 +78,12 @@ of the Doctoral Consortium of 10th International Conference on Affective Computi
 Interaction (ACII 2022). forthcoming.
 
 # Abstracts without Proceedings
+---
 - Cecilia O. Alm and **Rajesh Titung**. 2022. Engaging human interactions to learn emotions. EmoCHI’22.
 Nonarchivable
 
 # Technical Skills
+---
 - **Languages**: English, Nepali, Tamang, Hindi
 - **Programming Languages**: Python, Java, C/C++, SQL (Postgres),MongoDB
 - **Libraries**: Scikit-learn, Tensorflow, Keras, Pytorch, OpenAI Gym, nltk, spacy
