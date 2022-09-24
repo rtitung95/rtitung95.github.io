@@ -1,6 +1,6 @@
 # Background
 ---
-I am a second- year Computing and Information Sciences student at Rochester Institute of Technology, working under Prof. [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) at [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My work focuses on Interactive Machine Learning for Multimodal Affective Computing.
+I am a second-year Computing and Information Sciences student at Rochester Institute of Technology, working under Prof. [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) at [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My work focuses on Interactive Machine Learning for Multimodal Affective Computing.
 <br /><br />
 
 # Research Interests
