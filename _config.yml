@@ -23,7 +23,7 @@ name: "Rajesh Titung"
 description: "Rajesh Titung personal website."
 url: https://rtitung95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "rtitung95/rtitung95.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -63,7 +63,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification: "srzWGT_nEHzIy5d5m_Vv3ho8knPnuiKhLhMEQBGPAK8"
+google_site_verification: "Dj7kUgcNh46eiLoHqBfsfdVPO525aoVXX4wOlqsvxEQ"
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
