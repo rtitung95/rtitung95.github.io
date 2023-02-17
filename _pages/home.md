@@ -1,24 +1,25 @@
 # Background
 ---
-I am a second-year Computing and Information Sciences student at Rochester Institute of Technology, working under Prof. [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) at [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My work focuses on Interactive Machine Learning for Multimodal Affective Computing.
-<br /><br />
+I am a second-year Computing and Information Sciences student at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning for multimodal affective computing.
+<br/><br/>
 
 # Research Interests
 ---
-My research interests include Multimodal Machine Learning, Interactive Machine Learning, Affective computing, Natural Language processing, and Reinforcement Learning.
+My research interests include multimodal machine learning, interactive machine learning, affective computing, natural language/speech processing, federated learning, and Reinforcement Learning.
 <br /><br />
 
 # News
 ---
-- (08/2022): Accepted to [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/calls/call-for-doctoral-consortium/)
-- (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://sites.google.com/view/hciandnlp/home)
+- (11/2022): Poster accepted to [SIGCSE 2023](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters)
+- (08/2022): Accepted to the [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/attend/program/doctoral-consortium/)
+- (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://aclanthology.org/2022.hcinlp-1.6/) (at NAACL 2022)
 - (05/2022): Passed Research Potential Assessment (RPA)
-- (03/2021): Demo paper accepted at [EmoCHI'22](https://cis.unimelb.edu.au/hci/emotion-workshop)
+- (03/2022): Demo paper accepted at [EmoCHI'22](https://cis.unimelb.edu.au/hci/emotion-workshop)
 <br /><br />
 
 # Education
 ---
-### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - 2026)</span>
+### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - in progress)</span>
 <em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 <!-- --- -->
@@ -29,26 +30,28 @@ My research interests include Multimodal Machine Learning, Interactive Machine L
 
 # Work Experience
 ---
-### **Teaching Assistant**<span style="float:right;">(August 2022 - Present)</span>
-<em>ENGL-581/681, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- Graded graduate reading discussions and projects
-- Designed tutorials and team-based competitive kaggle like competition
-- Presented as a guest lecture for use of Interactive Machine Learning for NLP tasks
-
 ### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
-<em>CLaSP Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
+<em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- **Research area**: Affective computing and its exploration of various machine learning techniques
-- Analyzed applicability and benefits of Interactive Machine Learning (Active Learning and Machine Teaching) for
-Affective Computing
-- Working on data collection using verified stimuli eliciting targeted emotions
+- **Research area**: Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
+- Analyzing applicability and benefits of interactive machine learning (active learning and machine teaching) for affective computing
+- Conducting an IRB-approved multimodal data collection experiment with language and dialogue using several human tasks and verifying tasks and stimuli for understudied emotions (surprise, confusion, frustration)
 
-### **Co-Mentor**<span style="float:right;">(May - July 2022)</span>
-<em>REU in Computational Sensing for Human-centered AI</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
+### **Teaching Assistant**<span style="float:right;">(August 2022 - December 2022)</span>
+<em>Natural Language Processing I, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- Co-mentored 10 undergraduate students from different universities in USA
-- Mentored students for academic paper writing.
+- Prepared a shared tasks group assignment/competition with three NLP sub-tasks and data
+- Grader for technical problem sets and reading assignments (written critiques of published research papers)
+- TA office hours
+
+### **Graduate Research Assistant**<span style="float:right;">(May - July 2022)</span>
+<em>NSF REU Site in Computational Sensing for Human-centered AI</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
+
+- Co-mentored 10 undergraduate students from different universities in team-based research projects
+- Held a daily technical office hour
+- Organized a Mentor Café event enabling participants’ near-peer interactions with Ph.D. students
+- Provided individual support to students such as  academic writing in LaTeX, system setup, human subject data collection, sensor use
+- Conducted sensor demo session on sensors and the iMotions software
 
 ### **Machine Learning Engineer**<span style="float:right;">(July 2018 - July 2021)</span>
 <em>Fusemachines Nepal</em><span style="float:right;"><em>Kathmandu, Nepal</em></span>
@@ -56,34 +59,25 @@ Affective Computing
 - Led a team on Zendesk-based automated reply system
 - Co-led a team on a information retrieval system for a construction project leads and analytic company
 - Prepared NLP, RL, and CS course materials for Fusemachines Nanodegree
-
-### **Trainee**<span style="float:right;">(November 2017 - February 2018)</span>
-<em>Tekvortex Pvt. Ltd</em><span style="float:right;"><em>Lalitpur, Nepal</em></span>
-
-- Worked on a news curating system
-- Worked on crawler and database
-
-### **Intern**<span style="float:right;">(May 2016 - September 2016)</span>
-<em>E&T Nepal Pvt. Ltd</em><span style="float:right;"><em>Bhaktapur, Nepal</em></span>
-
-- Worked on Desktop automation project
 <br /><br />
 
 # Publications
 ---
 - **Rajesh Titung** and Cecilia O. Alm. 2022. Teaching interactively to learn emotions in natural language.
 In Proceedings of the Second Workshop on Bridging Human–Computer Interaction and Natural Language
-Processing, pages 40–46, Seattle, Washington. Association for Computational Linguistics. [\[pdf\]](https://aclanthology.org/2022.hcinlp-1.6/)
+Processing, pages 40–46, Seattle, Washington. Association for Computational Linguistics. [\[pdf\]](https://aclanthology.org/2022.hcinlp-1.6.pdf)
 
 - **Rajesh Titung**. 2022. Interactive Machine Learning for Multimodal Affective Computing. In Proceedings
 of the Doctoral Consortium of 10th International Conference on Affective Computing Intelligent
-Interaction (ACII 2022). forthcoming.
+Interaction (ACII 2022). (Accepted and to appear)
+
+- Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. (Accepted and to appear)
+
 <br /><br />
 
-# Abstracts without Proceedings
+# Extended Abstracts without Proceedings
 ---
-- Cecilia O. Alm and **Rajesh Titung**. 2022. Engaging human interactions to learn emotions. EmoCHI’22.
-Nonarchivable
+- Cecilia O. Alm and Rajesh Titung. 2022. Engaging human interactions to learn emotions. EmoCHI’22.
 <br /><br />
 
 # Technical Skills
@@ -93,4 +87,5 @@ Nonarchivable
 - **Libraries**: Scikit-learn, Tensorflow, Keras, Pytorch, OpenAI Gym, nltk, spacy
 - **Tools**: Pandas, Matplotlib, NumPy, Seaborn, Matlab, Jupyter Notebook, conda, pipenv, cookiecutter, FLask
 - **Developer Tools**: Git, Docker, Atom, AWS, Jira
-- **Softwares**: iMotions
+- **Hardware/Sensory Equipments**: Pupil Labs Pupil Core Eye tracker, SMI screen-based eye tracker, Tascam audio/speech recorders, GSR Shimmer3 wearable sensors
+- **Softwares**: iMotions, Praat
