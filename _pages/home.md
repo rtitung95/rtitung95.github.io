@@ -71,7 +71,7 @@ Processing, pages 40–46, Seattle, Washington. Association for Computational Li
 of the Doctoral Consortium of 10th International Conference on Affective Computing Intelligent
 Interaction (ACII 2022). (Accepted and to appear)
 
-- Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. (Accepted and to appear)
+- Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3545947.3576327)
 
 <br /><br />
 
