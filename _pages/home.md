@@ -1,6 +1,6 @@
 # Background
 ---
-I am a second-year Computing and Information Sciences student at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning for multimodal affective computing.
+I am a third-year Computing and Information Sciences student at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://pht180.rit.edu/ceciliaovesdotteralm/) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning for multimodal affective computing.
 <br/><br/>
 
 # Research Interests
@@ -10,6 +10,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
+- (07/2023): Demo accepted to [ACII 2023](https://acii-conf.net/2023/calls/demos/)
 - (11/2022): Poster accepted to [SIGCSE 2023](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters)
 - (08/2022): Accepted to the [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/attend/program/doctoral-consortium/)
 - (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://aclanthology.org/2022.hcinlp-1.6/) (at NAACL 2022)
@@ -30,6 +31,13 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Work Experience
 ---
+### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - Present)</span>
+<em>Foundations of Artificial Intelligence, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
+
+- Prepared problem sets reflecting various concepts in Artificial Intelligence
+- Grader for technical problem sets and reading assignments (written critiques of published research papers)
+- TA office hours
+
 ### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
 <em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
@@ -41,7 +49,7 @@ My research interests include multimodal machine learning, interactive machine l
 <em>Natural Language Processing I, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 - Prepared a shared tasks group assignment/competition with three NLP sub-tasks and data
-- Grader for technical problem sets and reading assignments (written critiques of published research papers)
+- Grader for problem sets and reading assignments
 - TA office hours
 
 ### **Graduate Research Assistant**<span style="float:right;">(May - July 2022)</span>
@@ -72,6 +80,8 @@ of the Doctoral Consortium of 10th International Conference on Affective Computi
 Interaction (ACII 2022). [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10085996)
 
 - Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3545947.3576327)
+
+- Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW).
 
 <br /><br />
 
