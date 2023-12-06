@@ -38,6 +38,12 @@ My research interests include multimodal machine learning, interactive machine l
 - Grader for technical problem sets and reading assignments (written critiques of published research papers)
 - TA office hours
 
+### **Visiting Researcher**<span style="float:right;">(October 2023 - November 2023)</span>
+<em>ML-Labs</em><span style="float:right;"><em>Dublin, Ireland</em></span>
+
+- Worked with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
+- Working on analyzing psychological vulnerabilities in phishing emails
+
 ### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
 <em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
