@@ -31,7 +31,15 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Work Experience
 ---
-### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - Present)</span>
+
+### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
+<em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
+
+- **Research area**: Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
+- Analyzing applicability and benefits of interactive machine learning (active learning and machine teaching) for affective computing
+- Conducting an IRB-approved multimodal data collection experiment with language and dialogue using several human tasks and verifying tasks and stimuli for understudied emotions (surprise, confusion, frustration)
+  
+### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - December 2023)</span>
 <em>Foundations of Artificial Intelligence, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 - Prepared problem sets reflecting various concepts in Artificial Intelligence
@@ -43,13 +51,6 @@ My research interests include multimodal machine learning, interactive machine l
 
 - Worked with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
 - Working on analyzing psychological vulnerabilities in phishing emails
-
-### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
-<em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- **Research area**: Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
-- Analyzing applicability and benefits of interactive machine learning (active learning and machine teaching) for affective computing
-- Conducting an IRB-approved multimodal data collection experiment with language and dialogue using several human tasks and verifying tasks and stimuli for understudied emotions (surprise, confusion, frustration)
 
 ### **Teaching Assistant**<span style="float:right;">(August 2022 - December 2022)</span>
 <em>Natural Language Processing I, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
