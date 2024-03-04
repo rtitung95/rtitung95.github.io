@@ -36,27 +36,27 @@ My research interests include multimodal machine learning, interactive machine l
 ### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
 <em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- **Research area**: Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
+- Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
 - Analyzing applicability and benefits of interactive machine learning (active learning and machine teaching) for affective computing
 - Conducting an IRB-approved multimodal data collection experiment with language and dialogue using several human tasks and verifying tasks and stimuli for understudied emotions (surprise, confusion, frustration)
   
 ### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - December 2023)</span>
 <em>Foundations of Artificial Intelligence, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- Prepared problem sets reflecting various concepts in Artificial Intelligence
+- Co-prepared problem sets reflecting various concepts in Artificial Intelligence
 - Grader for technical problem sets and reading assignments (written critiques of published research papers)
 - TA office hours
 
 ### **Visiting Researcher**<span style="float:right;">(October 2023 - November 2023)</span>
 <em>ML-Labs</em><span style="float:right;"><em>Dublin, Ireland</em></span>
 
-- Worked with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
-- Working on analyzing psychological vulnerabilities in phishing emails
+- Conducting research and co-authored dissemination with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
+- Using generative LLMs to investigate psychological vulnerabilities in phishing emails
 
 ### **Teaching Assistant**<span style="float:right;">(August 2022 - December 2022)</span>
 <em>Natural Language Processing I, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- Prepared a shared tasks group assignment/competition with three NLP sub-tasks and data
+- Co-prepared a shared tasks group assignment/competition with three NLP sub-tasks and data
 - Grader for problem sets and reading assignments
 - TA office hours
 
@@ -79,19 +79,19 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Publications
 ---
-- **Rajesh Titung** and Cecilia O. Alm. 2022. Teaching interactively to learn emotions in natural language.
-In Proceedings of the Second Workshop on Bridging Human–Computer Interaction and Natural Language
-Processing, pages 40–46, Seattle, Washington. Association for Computational Linguistics. [\[pdf\]](https://aclanthology.org/2022.hcinlp-1.6.pdf)
+- **Rajesh Titung** and Cecilia O. Alm. Forthcoming (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).(Accepted)
+
+- Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW).
+
+- Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3545947.3576327)
 
 - **Rajesh Titung**. 2022. Interactive Machine Learning for Multimodal Affective Computing. In Proceedings
 of the Doctoral Consortium of 10th International Conference on Affective Computing Intelligent
 Interaction (ACII 2022). [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10085996)
 
-- Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3545947.3576327)
-
-- Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW).
-
-- **Rajesh Titung** and Cecilia O. Alm. 2024. FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).(To appear)
+- **Rajesh Titung** and Cecilia O. Alm. 2022. Teaching interactively to learn emotions in natural language.
+In Proceedings of the Second Workshop on Bridging Human–Computer Interaction and Natural Language
+Processing, pages 40–46, Seattle, Washington. Association for Computational Linguistics. [\[pdf\]](https://aclanthology.org/2022.hcinlp-1.6.pdf)
 
 <br /><br />
 
