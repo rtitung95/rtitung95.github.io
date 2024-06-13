@@ -10,10 +10,10 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
-- (02/2024): Paper accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)
-- (07/2023): Demo accepted to [ACII 2023](https://acii-conf.net/2023/calls/demos/)
-- (11/2022): Poster accepted to [SIGCSE 2023](https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters)
-- (08/2022): Accepted to the [ACII 2022 Doctoral Consortium](https://acii-conf.net/2022/attend/program/doctoral-consortium/)
+- (02/2024): Paper accepted at [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.666/)
+- (07/2023): Demo accepted to [ACII 2023](https://ieeexplore.ieee.org/document/10388154)
+- (11/2022): Poster accepted to [SIGCSE 2023](https://dl.acm.org/doi/abs/10.1145/3545947.3576327)
+- (08/2022): Accepted to the [ACII 2022 Doctoral Consortium](https://ieeexplore.ieee.org/document/10085996)
 - (07/2022): Workshop paper accepted at [2nd HCI+NLP Workshop](https://aclanthology.org/2022.hcinlp-1.6/) (at NAACL 2022)
 - (05/2022): Passed Research Potential Assessment (RPA)
 - (03/2022): Demo paper accepted at [EmoCHI'22](https://cis.unimelb.edu.au/hci/emotion-workshop)
@@ -79,9 +79,9 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Publications
 ---
-- **Rajesh Titung** and Cecilia O. Alm. Forthcoming (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).(Accepted)
+- **Rajesh Titung** and Cecilia O. Alm. Forthcoming (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING). [\[pdf\]](https://aclanthology.org/2024.lrec-main.666.pdf)
 
-- Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW).
+- Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW). [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388154)
 
 - Cecilia O. Alm, **Rajesh Titung**, and Reynold Bailey. 2023. Pandemic Impacts on Assessment of Undergraduate Research. (poster). SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3545947.3576327)
 
@@ -104,7 +104,7 @@ Processing, pages 40–46, Seattle, Washington. Association for Computational Li
 ---
 - **Languages**: English, Nepali, Tamang, Hindi
 - **Programming Languages**: Python, Java, C/C++, SQL (Postgres),MongoDB
-- **Libraries**: Scikit-learn, Tensorflow, Keras, Pytorch, OpenAI Gym, nltk, spacy
+- **Libraries**: Scikit-learn, Tensorflow, Keras, Pytorch, OpenAI Gym, nltk, spacy, transformers, peft
 - **Tools**: Pandas, Matplotlib, NumPy, Seaborn, Matlab, Jupyter Notebook, conda, pipenv, cookiecutter, FLask
 - **Developer Tools**: Git, Docker, Atom, AWS, Jira
 - **Hardware/Sensory Equipments**: Pupil Labs Pupil Core Eye tracker, SMI screen-based eye tracker, Tascam audio/speech recorders, GSR Shimmer3 wearable sensors
