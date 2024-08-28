@@ -53,22 +53,6 @@ My research interests include multimodal machine learning, interactive machine l
 - Conducting research and co-authored dissemination with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
 - Using generative LLMs to investigate psychological vulnerabilities in phishing emails
 
-### **Teaching Assistant**<span style="float:right;">(August 2022 - December 2022)</span>
-<em>Natural Language Processing I, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- Co-prepared a shared tasks group assignment/competition with three NLP sub-tasks and data
-- Grader for problem sets and reading assignments
-- TA office hours
-
-### **Graduate Research Assistant**<span style="float:right;">(May - July 2022)</span>
-<em>NSF REU Site in Computational Sensing for Human-centered AI</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- Co-mentored 10 undergraduate students from different universities in team-based research projects
-- Held a daily technical office hour
-- Organized a Mentor Café event enabling participants’ near-peer interactions with Ph.D. students
-- Provided individual support to students such as  academic writing in LaTeX, system setup, human subject data collection, sensor use
-- Conducted sensor demo session on sensors and the iMotions software
-
 ### **Machine Learning Engineer**<span style="float:right;">(July 2018 - July 2021)</span>
 <em>Fusemachines Nepal</em><span style="float:right;"><em>Kathmandu, Nepal</em></span>
 
