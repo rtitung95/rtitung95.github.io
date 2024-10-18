@@ -5,7 +5,7 @@ I am a Computing and Information Sciences Ph.D. student at Rochester Institute o
 
 # Research Interests
 ---
-My research interests include multimodal machine learning, interactive machine learning, affective computing, natural language/speech processing, personalized federated learning, and Reinforcement Learning.
+My research interests include multimodal machine learning, interactive machine learning, affective computing, natural language/speech processing, personalized federated learning, and Reinforcement Learning for human behavioral modeling.
 <br /><br />
 
 # News
@@ -36,14 +36,15 @@ My research interests include multimodal machine learning, interactive machine l
 ### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
 <em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
-- Studying benefits and trade-offs of interactive machine learning (active learning and machine teaching) for affective computing
-- Analyzing applicability and benefits of interactive machine learning (active learning and machine teaching) for affective computing
-- Conducting an IRB-approved multimodal data collection experiment with language and dialogue using several human tasks and verifying tasks and stimuli for understudied emotions (surprise, confusion, frustration)
+- Conducted an IRB-approved multimodal data collection experiment using several human tasks to study the subtleness of emotion expressions.
+- Investigated the benefits and trade-offs of interactive machine learning approaches, including active learning and machine teaching, for advancing affective computing.
+- Exploring federated learning and interactive machine learning to enhance the personalization and generalization of behavioral models representing extremely diverse human behavioral expressions and perceptions.
   
 ### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - December 2023)</span>
 <em>Foundations of Artificial Intelligence, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
 
 - Co-prepared problem sets reflecting various concepts in Artificial Intelligence
+- Created video tutorials on transfer learning, large multimodal models (LMMs), large language models (LLMs), and fine-tuning techniques for LLMs.
 - Grader for technical problem sets and reading assignments (written critiques of published research papers)
 - TA office hours
 
