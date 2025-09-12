@@ -10,6 +10,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
+- (09/2025): Journal Paper accepted at IEEE Access
 - (02/2024): Paper accepted at [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.666/)
 - (07/2023): Demo accepted to [ACII 2023](https://ieeexplore.ieee.org/document/10388154)
 - (11/2022): Poster accepted to [SIGCSE 2023](https://dl.acm.org/doi/abs/10.1145/3545947.3576327)
