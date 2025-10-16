@@ -66,6 +66,7 @@ My research interests include multimodal machine learning, interactive machine l
 # Publications
 ---
 - Faithful C. Onwuegbuche\*, **Rajesh Titung\***, Esa M. Rantanen, Anca D. Jurcut, Cecilia O. Alm and Liliana Pasquale. 2025. Securing the Weakest Link: Exploring Affective States Exploited in Phishing Emails With Large Language Models. In IEEE Access, vol. 13. [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11184603)
+
 - **Rajesh Titung** and Cecilia O. Alm. (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING). [\[pdf\]](https://aclanthology.org/2024.lrec-main.666.pdf)
 
 - Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW). [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388154)
