@@ -10,7 +10,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
-- (09/2025): Journal article accepted at IEEE Access
+- (09/2025): Journal article accepted at [IEEE Access](https://ieeexplore.ieee.org/abstract/document/11184603)
 - (02/2024): Paper accepted at [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.666/)
 - (07/2023): Demo accepted to [ACII 2023](https://ieeexplore.ieee.org/document/10388154)
 - (11/2022): Poster accepted to [SIGCSE 2023](https://dl.acm.org/doi/abs/10.1145/3545947.3576327)
@@ -65,7 +65,8 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Publications
 ---
-- **Rajesh Titung** and Cecilia O. Alm. Forthcoming (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING). [\[pdf\]](https://aclanthology.org/2024.lrec-main.666.pdf)
+- Faithful C. Onwuegbuche\*, **Rajesh Titung\***, Esa M. Rantanen, Anca D. Jurcut, Cecilia O. Alm and Liliana Pasquale. 2025. Securing the Weakest Link: Exploring Affective States Exploited in Phishing Emails With Large Language Models. In IEEE Access, vol. 13. [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11184603)
+- **Rajesh Titung** and Cecilia O. Alm. (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING). [\[pdf\]](https://aclanthology.org/2024.lrec-main.666.pdf)
 
 - Isabelle Arthur, Jordan Quinn, **Rajesh Titung**, Cecilia O. Alm, and Reynold Bailey. 2023. MDE - Multimodal Data Explorer for Flexible Visualization of Multiple Data Streams. (demo). ACII 2023: 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW). [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388154)
 
