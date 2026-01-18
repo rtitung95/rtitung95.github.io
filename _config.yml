@@ -105,7 +105,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://rtitung95.github.io"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=-mPHAZ8AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
