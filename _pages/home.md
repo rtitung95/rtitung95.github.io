@@ -1,6 +1,6 @@
 # Background
 ---
-I am a Computing and Information Sciences Ph.D. student at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://www.rit.edu/clasp/directory/coagla-cecilia-alm) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning and federated learning for multimodal affective computing.
+I am a Computing and Information Sciences Ph.D. candidate at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://www.rit.edu/clasp/directory/coagla-cecilia-alm) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning and federated learning for multimodal affective computing.
 <br/><br/>
 
 # Research Interests
