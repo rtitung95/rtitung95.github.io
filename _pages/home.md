@@ -10,6 +10,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
+- (02/2026): Journal article accepted at IEEE Transactions on Affective Computing
 - (09/2025): Journal article accepted at [IEEE Access](https://ieeexplore.ieee.org/abstract/document/11184603)
 - (02/2024): Paper accepted at [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.666/)
 - (07/2023): Demo accepted to [ACII 2023](https://ieeexplore.ieee.org/document/10388154)
@@ -65,6 +66,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # Publications
 ---
+- **Rajesh Titung** and Cecilia O. Alm. (2026). Personalized Federated Learning for Session-based Affective Interaction Modeling. In IEEE Transactions on Affective Computing, accepted for publication.
 - Faithful C. Onwuegbuche\*, **Rajesh Titung\***, Esa M. Rantanen, Anca D. Jurcut, Cecilia O. Alm and Liliana Pasquale. 2025. Securing the Weakest Link: Exploring Affective States Exploited in Phishing Emails With Large Language Models. In IEEE Access, vol. 13. [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11184603)
 
 - **Rajesh Titung** and Cecilia O. Alm. (2024). FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING). [\[pdf\]](https://aclanthology.org/2024.lrec-main.666.pdf)
