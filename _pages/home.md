@@ -10,7 +10,7 @@ My research interests include multimodal machine learning, interactive machine l
 
 # News
 ---
-- (02/2026): Journal article accepted at IEEE Transactions on Affective Computing
+- (02/2026): Journal article accepted at [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/11399660)
 - (09/2025): Journal article accepted at [IEEE Access](https://ieeexplore.ieee.org/abstract/document/11184603)
 - (02/2024): Paper accepted at [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.666/)
 - (07/2023): Demo accepted to [ACII 2023](https://ieeexplore.ieee.org/document/10388154)
@@ -21,48 +21,6 @@ My research interests include multimodal machine learning, interactive machine l
 - (03/2022): Demo paper accepted at [EmoCHI'22](https://cis.unimelb.edu.au/hci/emotion-workshop)
 <br /><br />
 
-# Education
----
-### **Ph.D. in Computing and Information Sciences**<span style="float:right;">(2021 - in progress)</span>
-<em>Rochester Institute of Technology</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-<!-- --- -->
-
-### **Bachelor in Computer Engineering**<span style="float:right;">(2013 - 2017)</span>
-<em>Pulchowk Campus, Institute of Engineering</em><span style="float:right;"><em>Lalitpur, Nepal</em></span>
-<br /><br />
-
-# Work Experience
----
-
-### **Graduate Research Assistant**<span style="float:right;">(August 2021 - Present)</span>
-<em>Computational Linguistics and Speech Processing Lab, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- Conducted an IRB-approved multimodal data collection experiment using several human tasks to study the subtleness of emotion expressions.
-- Investigated the benefits and trade-offs of interactive machine learning approaches, including active learning and machine teaching, for advancing affective computing.
-- Exploring federated learning and interactive machine learning to enhance the personalization and generalization of behavioral models representing extremely diverse human behavioral expressions and perceptions.
-  
-### **Graduate Teaching Assistant**<span style="float:right;">(August 2023 - December 2023)</span>
-<em>Foundations of Artificial Intelligence, RIT</em><span style="float:right;"><em>Rochester, NY, USA</em></span>
-
-- Co-prepared problem sets reflecting various concepts in Artificial Intelligence
-- Created video tutorials on transfer learning, large multimodal models (LMMs), large language models (LLMs), and fine-tuning techniques for LLMs.
-- Grader for technical problem sets and reading assignments (written critiques of published research papers)
-- TA office hours
-
-### **Visiting Researcher**<span style="float:right;">(October 2023 - November 2023)</span>
-<em>ML-Labs</em><span style="float:right;"><em>Dublin, Ireland</em></span>
-
-- Conducting research and co-authored dissemination with collaborators at University College Dublin (UCD), Dublin City University (DCU), and Technological University Dublin (TUD).
-- Using generative LLMs to investigate psychological vulnerabilities in phishing emails
-
-### **Machine Learning Engineer**<span style="float:right;">(July 2018 - July 2021)</span>
-<em>Fusemachines Nepal</em><span style="float:right;"><em>Kathmandu, Nepal</em></span>
-
-- Led a team on Zendesk-based automated reply system
-- Co-led a team on a information retrieval system for a construction project leads and analytic company
-- Prepared NLP, RL, and CS course materials for Fusemachines Nanodegree
-<br /><br />
 
 # Publications
 ---
@@ -90,12 +48,21 @@ Processing, pages 40–46, Seattle, Washington. Association for Computational Li
 - Cecilia O. Alm and Rajesh Titung. 2022. Engaging human interactions to learn emotions. EmoCHI’22.
 <br /><br />
 
-# Technical Skills
+# Mentoring
 ---
-- **Languages**: English, Nepali, Tamang, Hindi
-- **Programming Languages**: Python, Java, C/C++, SQL (Postgres),MongoDB
-- **Libraries**: Scikit-learn, Tensorflow, Keras, Pytorch, OpenAI Gym, nltk, spacy, transformers, peft
-- **Tools**: Pandas, Matplotlib, NumPy, Seaborn, Matlab, Jupyter Notebook, conda, pipenv, cookiecutter, FLask
-- **Developer Tools**: Git, Docker, Atom, AWS, Jira
-- **Hardware/Sensory Equipments**: Pupil Labs Pupil Core Eye tracker, SMI screen-based eye tracker, Tascam audio/speech recorders, GSR Shimmer3 wearable sensors
-- **Softwares**: iMotions, Praat
+**Graduate (MS):**
+- Multimodal interpretability analysis (Ajay Gopi; Parth Kapur; Shubh Sehgal)
+- Collaborative linguistic analysis platform (Pavan Kumar Bellam)
+- Capstone: detecting linguistic signals of surprise and frustration in speech audio (Ketaki Tilak)
+
+**Undergraduate (BS):**
+- Multimodal data visualization platform (Isabelle Arthur; Jordan Quinn)
+- NSF REU Site — co-mentored **10 undergraduate students**
+
+# Teaching
+---
+I have served as Graduate Teaching Assistant for the following graduate level courses at the Rochester Institute of Technology:
+- **ENGL 681** Natural Language Processing I (Fall 2022)
+- **IDAI 610** Foundations of Artificial Intelligence (Fall 2023, Fall 2024)
+- **CSCI 716** Computational Geometry (Fall 2025)
+- **IDAI 780** Capstone Project (Spring 2025, Spring 2026)
