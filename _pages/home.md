@@ -58,6 +58,7 @@ Processing, pages 40–46, Seattle, Washington. Association for Computational Li
 **Undergraduate (BS):**
 - Multimodal data visualization platform (Isabelle Arthur; Jordan Quinn)
 - NSF REU Site — co-mentored **10 undergraduate students**
+- <br /><br />
 
 # Teaching
 ---
