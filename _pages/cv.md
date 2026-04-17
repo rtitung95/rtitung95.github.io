@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-[**Current CV here**](https://rtitung95.github.io/assets/misc/Rajesh_CV_Feb_21.pdf) (last updated in April 2026)
+[**Current CV here**](https://rtitung95.github.io/assets/misc/Rajesh_CV_Apr_2_AS.pdf) (last updated in April 2026)
 <!-- Procedure to update CV -->
 <!--1.  First change cv name here -->
 <!--1.  Replace files in assets/misc -->
