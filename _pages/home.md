@@ -1,6 +1,6 @@
 # Background
 ---
-I am a Computing and Information Sciences Ph.D. candidate at Rochester Institute of Technology, working with Professor [Cecilia O. Alm](https://www.rit.edu/clasp/directory/coagla-cecilia-alm) in the [Computational Linguistics and Speech Processing Lab (CLaSP)](https://www.rit.edu/clasp/). My research focuses on interactive machine learning and federated learning for multimodal affective computing.
+I am a Visiting Assistant Professor in School of Psychology and Cognitive Science at Rochester Institute of Technology. I teach Natural Langauge Technology, Large Language Models, Language Technology, Fundamentals of AI and other related courses. My research focuses on interactive machine learning and federated learning for multimodal affective computing.
 <br/><br/>
 
 # Research Interests
@@ -62,8 +62,7 @@ Processing, pages 40–46, Seattle, Washington. Association for Computational Li
 
 # Teaching
 ---
-I have served as Graduate Teaching Assistant for the following graduate level courses at the Rochester Institute of Technology:
-- **ENGL 681** Natural Language Processing I (Fall 2022)
-- **IDAI 610** Foundations of Artificial Intelligence (Fall 2023, Fall 2024)
-- **CSCI 716** Computational Geometry (Fall 2025)
-- **IDAI 780** Capstone Project (Spring 2025, Spring 2026)
+I teach both undergraduate and graduate level courses at the Rochester Institute of Technology:
+- **LING 351** Language Technology and Large Language Models (Fall 2026)
+- **IDAI 610** Foundations of Artificial Intelligence (Fall 2026)
+- **PSYC 681** Natural Language Processing and Large Language Models I (Fall 2026)

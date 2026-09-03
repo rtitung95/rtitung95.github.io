@@ -94,13 +94,13 @@ analytics:
 author:
   name: "Rajesh Titung"
   avatar: "/assets/images/rajesh_pic.jpeg"
-  bio: "CS Ph.D. Student @ RIT"
+  bio: "Visiting Assistant Professor @ RIT"
   location: "Rochester, NY, USA"
-  # email            : dinesh (dot) daultani (at) gmail.com
+  email: "rxtgla@rit.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rt7331@rit.edu"
+      url: "mailto:rxtgla@rit.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rtitung95.github.io"
